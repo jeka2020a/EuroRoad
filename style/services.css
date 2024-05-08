@@ -1,0 +1,23 @@
+.service__title {
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 62.4px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.service__box {
+    border: 1px solid #E6E9EA;
+    border-radius: 15px;
+    padding: 24px 28px 24px 28px;
+    max-width: 364px;
+    height: 167px;
+    margin-bottom: 24px;
+}
+.mb-42 {
+    margin-bottom: 42px;
+}
+.wrap {
+    flex-wrap: wrap;
+}

@@ -1,0 +1,100 @@
+.contacts {
+    margin-bottom: 90px;
+}
+.contacts__info {
+    max-width: 460px;
+}
+.contacts__box {
+    margin-bottom: 40px;
+}
+.contacts__flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.contacts__subtitle {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #909DA2;
+}
+.contacts__number {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+.contacts__street {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+.contacts__form {
+    max-width: 653px;
+    height: 446px;
+}
+.mb-42 {
+    margin-bottom: 42px;
+}
+.contacts__title {
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 62.4px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+.contacts__input {
+    background: #F3F5F6;
+    width: 100%;
+    padding: 18px 25px 18px 25px;
+    border-radius: 11px;
+    color: #22282B;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    letter-spacing: -0.02em;
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+}
+.contacts__textarea {
+    background: #F3F5F6;
+    width: 100%;
+    height: 116px;
+    padding: 18px 25px 18px 25px;
+    border-radius: 11px;
+    color: #22282B;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    letter-spacing: -0.02em;
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+}
+.contacts__button {
+    width: 185px;
+    padding: 18px 45px 18px 45px;
+    border-radius: 11px;
+    background: var(--Accent, #0065FF);
+    border: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    letter-spacing: -0.02em;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+.container__blog {
+    margin: 0 auto;
+    max-width: 752px;
+}
+.blog {
+    margin-bottom: 77px;
+}
+.container__blog {
+}
+.blog__title {
+    margin-bottom: 40px;
+}
+.title {
+}
+.blog__image {
+    margin-bottom: 40px;
+    display: block;
+    max-width: 100%;
+}
+.blog__subtitle {
+    margin-bottom: 20px;
+}
+.blog__text {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #909DA2;
+}
